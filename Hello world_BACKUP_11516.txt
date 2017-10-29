@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+Hello world$
+print(Hello world!!!)$
+print(Hello everyboy)$
+print(Hello my die friend)$
+print(Glan to see you?)$
+=======
+Hello world;
+print(Hello world!!!);
+print(Hello everyboy);
+>>>>>>> master
